@@ -8,3 +8,4 @@ A user has the functionality of adding new donors, retrieving donor data, or man
 
 
 @Footnote: This project is the term project of the Database course.
+<i> 4 student worked on this project. </i>
